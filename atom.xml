@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://Jrxo.com/"/>
-  <updated>2019-03-01T03:50:46.539Z</updated>
+  <updated>2019-03-01T08:00:01.904Z</updated>
   <id>http://Jrxo.com/</id>
   
   <author>
@@ -17,25 +17,26 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>newpage</title>
     <link href="http://Jrxo.com/2019/03/01/newpage/"/>
     <id>http://Jrxo.com/2019/03/01/newpage/</id>
-    <published>2019-03-01T02:01:31.260Z</published>
-    <updated>2019-03-01T03:50:46.539Z</updated>
+    <published>2019-03-01T02:01:31.000Z</published>
+    <updated>2019-03-01T08:00:01.904Z</updated>
     
-    <content type="html"><![CDATA[<hr><p>title: newpage<br>date: 2019-03-01 10:01:31<br>tags:<br>—�����Ҵ����ĵ�һ��˽�˲���……^_^</p>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to Mr. Ren’s private space blog </p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;hr&gt;
-&lt;p&gt;title: newpage&lt;br&gt;date: 2019-03-01 10:01:31&lt;br&gt;tags:&lt;br&gt;—�����Ҵ����ĵ�һ��˽�˲���……^_^&lt;/p&gt;
+        &lt;p&gt;Welcome to Mr. Ren’s private space blog &lt;/p&gt;
 
       
     
     </summary>
     
+    
+      <category term="Jrwebsite" scheme="http://Jrxo.com/tags/Jrwebsite/"/>
     
   </entry>
   
@@ -44,12 +45,22 @@
     <link href="http://Jrxo.com/2019/03/01/rcx/"/>
     <id>http://Jrxo.com/2019/03/01/rcx/</id>
     <published>2019-03-01T01:55:25.000Z</published>
-    <updated>2019-03-01T01:55:25.497Z</updated>
+    <updated>2019-03-01T08:01:08.796Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to Mr. Ren’s private space blog</p>]]></content>
     
     <summary type="html">
     
+      
+      
+        &lt;p&gt;Welcome to Mr. Ren’s private space blog&lt;/p&gt;
+
+      
+    
     </summary>
     
+    
+      <category term="rcx-v-rcx" scheme="http://Jrxo.com/tags/rcx-v-rcx/"/>
     
   </entry>
   
@@ -58,12 +69,22 @@
     <link href="http://Jrxo.com/2019/03/01/paper/"/>
     <id>http://Jrxo.com/2019/03/01/paper/</id>
     <published>2019-03-01T01:52:00.000Z</published>
-    <updated>2019-03-01T01:52:00.561Z</updated>
+    <updated>2019-03-01T08:01:00.274Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to Mr. Ren’s private space blog</p>]]></content>
     
     <summary type="html">
     
+      
+      
+        &lt;p&gt;Welcome to Mr. Ren’s private space blog&lt;/p&gt;
+
+      
+    
     </summary>
     
+    
+      <category term="rcx-v-rcx" scheme="http://Jrxo.com/tags/rcx-v-rcx/"/>
     
   </entry>
   
